@@ -26,6 +26,9 @@ If you don’t like the program or for any reason want to remove it — just del
 # Note:
 Enjoy using the app and thank you for your attention!
 
+Created by Andrey K. (idea and Beta → 0.5).  
+Version 1.0 improved with help from ChatGPT.
+
 
 # Описание:
 Программа способна вычислять, сколько лет прошло между двумя годами или сколько лет осталось до указанного года.
@@ -54,3 +57,6 @@ Enjoy using the app and thank you for your attention!
 
 # Примечание:
 Наслаждайтесь использованием и спасибо за внимание!
+
+Создано Андреем К. (идея и Beta → 0.5).  
+Версия 1.0 доработана с помощью ChatGPT.
